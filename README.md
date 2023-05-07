@@ -41,3 +41,7 @@ python fish_main.py
 > - Bu yüzden programı çalıştırdıktan sonra oyun penceresine dönün ve balık tutma işleminin başlamasını bekleyin.
 > - Balık tutma işlemi otomatik bir şekilde devam edecektir.
 > - Balık tutma işlemini durdurmak için terminalde CTRL + C tuşlarına basın.
+
+
+https://user-images.githubusercontent.com/120599161/236683898-2b5e2de0-1e37-4e71-9b99-0974adbf225e.mp4
+
