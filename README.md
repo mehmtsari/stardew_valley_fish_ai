@@ -4,7 +4,7 @@
     Stardew Valley Fishing Bot
     <span style='color:Red; font-weight:1000;'>ENG </span> 
     <br>
-    <span> <img src='https://img.shields.io/github/license/mehmtsari/stardew_valley_fish_ai?style=for-the-badge'/></span> 
+    <span> <img src='https://img.shields.io/github/license/mehmtsari/stardew_valley_fish_ai'/></span> 
 <h2> General explanation </h2>
 
 > - This project has been developed to automate the fishing process in Stardew Valley.
