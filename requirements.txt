@@ -1,0 +1,4 @@
+mss==7.0.1
+numpy==1.21.5
+opencv_python==4.6.0.66
+pynput==1.7.6
