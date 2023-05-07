@@ -207,4 +207,5 @@ with mss.mss() as sct:
             if fishing == False:
                 break
             
+            
          
